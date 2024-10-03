@@ -20,8 +20,8 @@ Repositório criado para estudo de Algoritmos e Estruturas de Dados no contexto 
     <table>
       <tr>
         <th>Derived or Constructed Structures</th>
-        <th style="text-align: left;">Base</th>
-        <th style="text-align: left;">Use</th>
+        <th>Base</th>
+        <th>Use</th>
       </tr>
       <tr>
         <td>Stack</td>
