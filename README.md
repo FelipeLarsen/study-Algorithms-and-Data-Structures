@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Data Structures Algorithms 
 Repositório criado para estudo de Algoritmos e Estruturas de Dados no contexto da linguagem Javascript.
 
 <div style="display: flex; gap: 20px;">
